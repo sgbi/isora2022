@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-the-resort",
-      "name": "The Resort",
+      "name": "Resort",
       "levels": [
         {
           "tileSize": 256,
@@ -33,7 +33,7 @@ var APP_DATA = {
           "yaw": 0.18931296473957815,
           "pitch": 1.2134091272003698,
           "rotation": 0,
-          "target": "1-the-concierge"
+          "target": "1-concierge"
         },
         {
           "yaw": -1.5010156835737138,
@@ -45,38 +45,38 @@ var APP_DATA = {
           "yaw": -0.44728898807216666,
           "pitch": 0.5417634616310796,
           "rotation": 0,
-          "target": "3-the-grounds"
+          "target": "3-grounds"
         },
         {
           "yaw": 0.07431160529935354,
           "pitch": 0.7200939004052991,
           "rotation": 0,
-          "target": "9-the-pool-2"
+          "target": "9-pool-2"
         },
         {
           "yaw": 0.07557489206078216,
           "pitch": 0.36889795308293216,
           "rotation": 0,
-          "target": "6-the-gazeboos"
+          "target": "6-gazebos"
         },
         {
           "yaw": -0.036034580099649105,
           "pitch": 0.10931334932919867,
           "rotation": 0,
-          "target": "2-the-beach"
+          "target": "2-beach"
         },
         {
           "yaw": 0.7012191159087067,
           "pitch": 0.6564272326903442,
           "rotation": 0,
-          "target": "10-the-room"
+          "target": "10-premier-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-the-concierge",
-      "name": "The Concierge",
+      "id": "1-concierge",
+      "name": "Concierge",
       "levels": [
         {
           "tileSize": 256,
@@ -106,8 +106,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-the-beach",
-      "name": "The Beach",
+      "id": "2-beach",
+      "name": "Beach",
       "levels": [
         {
           "tileSize": 256,
@@ -137,8 +137,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-the-grounds",
-      "name": "The Grounds",
+      "id": "3-grounds",
+      "name": "Grounds",
       "levels": [
         {
           "tileSize": 256,
@@ -168,8 +168,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "4-the-pavilion",
-      "name": "The Pavilion",
+      "id": "4-pavilion",
+      "name": "Pavilion",
       "levels": [
         {
           "tileSize": 256,
@@ -199,8 +199,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "5-the-dining-hall",
-      "name": "The Dining Hall",
+      "id": "5-dining-hall",
+      "name": "Dining Hall",
       "levels": [
         {
           "tileSize": 256,
@@ -230,8 +230,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "6-the-gazeboos",
-      "name": "The Gazeboos",
+      "id": "6-gazebos",
+      "name": "Gazebos",
       "levels": [
         {
           "tileSize": 256,
@@ -261,8 +261,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "7-the-gazeboos-2",
-      "name": "The Gazeboos (2)",
+      "id": "7-gazebos-2",
+      "name": "Gazebos (2)",
       "levels": [
         {
           "tileSize": 256,
@@ -292,8 +292,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "8-the-pool",
-      "name": "The Pool",
+      "id": "8-pool",
+      "name": "Pool",
       "levels": [
         {
           "tileSize": 256,
@@ -323,8 +323,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "9-the-pool-2",
-      "name": "The Pool (2)",
+      "id": "9-pool-2",
+      "name": "Pool (2)",
       "levels": [
         {
           "tileSize": 256,
@@ -354,8 +354,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "10-the-room",
-      "name": "The Room",
+      "id": "10-premier-room",
+      "name": "Premier Room",
       "levels": [
         {
           "tileSize": 256,
@@ -385,8 +385,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "11-the-room-2",
-      "name": "The Room (2)",
+      "id": "11-premier-room-2",
+      "name": "Premier Room (2)",
       "levels": [
         {
           "tileSize": 256,
