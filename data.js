@@ -138,7 +138,7 @@ var APP_DATA = {
     },
     {
       "id": "3-grounds",
-      "name": "Grounds",
+      "name": "Play Area",
       "levels": [
         {
           "tileSize": 256,
